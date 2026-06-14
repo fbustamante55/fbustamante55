@@ -27,12 +27,6 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fbustamante55/fbustamante55/main/profile.jpg" width="150" style="border-radius:50%"/>
-</div>
-
-<br/>
-
 ```java
 public class FabianBustamante {
 
