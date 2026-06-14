@@ -14,6 +14,9 @@
   <a href="mailto:fabianbustamante776@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/fabi%C3%A1n-bustamante-arag%C3%B3n-6796142b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/fbustamante55">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -24,12 +27,17 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fbustamante55/fbustamante55/main/profile.jpg" width="150" style="border-radius:50%"/>
+</div>
+
+<br/>
+
 ```java
 public class FabianBustamante {
 
     String name     = "Fabian Bustamante";
     String location = "Costa Rica 🇨🇷";
-    String email    = "fabianbustamante776@gmail.com";
 
     String[] languages  = {"Java", "TypeScript", "Python", "SQL"};
     String[] databases  = {"SQL Server", "Oracle PL/SQL", "T-SQL"};
@@ -97,7 +105,7 @@ public class FabianBustamante {
 | [🤖 Web Automation](https://github.com/fbustamante55/web-automation) | Browser automation and scraping scripts | Python · Selenium |
 | [📚 Book Catalog System](https://github.com/fbustamante55/book-catalog-system) | Library catalog management application | Java |
 | [🔧 Hardware Store DB](https://github.com/fbustamante55/las-quebradas-hardware-store-db) | Full inventory database for a hardware store | T-SQL · SQL Server |
-| [🏦 Papa John's Dashboard](https://github.com/fbustamante55/papajohns-sales-dashboard) | Sales analytics and KPI dashboard | Power BI |
+| [📊 Papa John's Dashboard](https://github.com/fbustamante55/papajohns-sales-dashboard) | Sales analytics and KPI dashboard | Power BI |
 | [🔒 Security System](https://github.com/fbustamante55/las-aralias-security-system) | Access control system for a condominium | JavaScript |
 
 </div>
